@@ -1,4 +1,3 @@
-import java.util.HashMap;
 public class Majority{
 	public static void main(String[] args){
 		int[] maxElement = new int[10000];
